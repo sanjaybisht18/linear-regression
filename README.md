@@ -1,2 +1,3 @@
 # linear-regression
-house-price-prediction
+Predicting house prices using Linear Regression
+#Thank you
